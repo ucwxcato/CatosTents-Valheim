@@ -1,0 +1,10 @@
+{
+  "name": "CatosTents",
+  "version_number": "0.1.0",
+  "website_url": "",
+  "description": "Adds four decorative placeable tent structures to Valheim.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}

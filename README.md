@@ -6,11 +6,11 @@ CatosTents adds four placeable tent structures to Valheim. Use them for market c
 
 ## Screenshots
 
-![Market camp](images/tent2.png)
+![Market camp](https://raw.githubusercontent.com/ucwxcato/CatosTents-Valheim/main/Thunderstore/images/tent2.png)
 
-![Tent variant](images/tent1.png)
+![Tent variant](https://raw.githubusercontent.com/ucwxcato/CatosTents-Valheim/main/Thunderstore/images/tent1.png)
 
-![Tent set](images/tent3.png)
+![Tent set](https://raw.githubusercontent.com/ucwxcato/CatosTents-Valheim/main/Thunderstore/images/tent3.png)
 
 ## Features
 
