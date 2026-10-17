@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>CatosTents</AssemblyName>
+    <RootNamespace>CatosTents</RootNamespace>
+    <Version>0.1.0</Version>
+    <OutputPath>bin/Release/net48/</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx" HintPath="..\Households-REPO\lib\BepInEx\core\BepInEx.dll" Private="false" />
+    <Reference Include="UnityEngine" HintPath="..\Households-REPO\lib\BepInEx\core\UnityEngine.dll" Private="false" />
+    <Reference Include="UnityEngine.CoreModule" HintPath="..\Households-REPO\lib\BepInEx\core\UnityEngine.CoreModule.dll" Private="false" />
+    <Reference Include="UnityEngine.AssetBundleModule" HintPath="..\Households-REPO\lib\BepInEx\core\UnityEngine.AssetBundleModule.dll" Private="false" />
+    <Reference Include="assembly_valheim" HintPath="..\Households-REPO\lib\BepInEx\core\assembly_valheim.dll" Private="false" />
+    <Reference Include="Jotunn" HintPath="..\Households-REPO\lib\BepInEx\core\Jotunn.dll" Private="false" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\**\*" />
+  </ItemGroup>
+</Project>
